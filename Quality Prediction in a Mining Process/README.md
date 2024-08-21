@@ -21,14 +21,14 @@ This repository contains a comprehensive analysis of a Mining Process Flotation 
    - **Framework**: Gradio
    - Deployed the trained model as a web application to allow interactive predictions and model evaluation.
 
-   ![Gradio Deployment](./images/BI.png)
+   ![Gradio Deployment](./images/gradio.png)
    *Screenshot of the Gradio interface*
 
 4. **Power BI Visualizations**
    - Created interactive dashboards to visualize the mining process data.
    - Included various visualizations such as scatter plots, line charts, and slicers for dynamic data exploration.
 
-   ![Power BI Dashboard](images/powerbi_dashboard.png)
+   ![Power BI Dashboard](./images/BI.png)
    *Screenshot of the Power BI dashboard*
 
 ## Getting Started
