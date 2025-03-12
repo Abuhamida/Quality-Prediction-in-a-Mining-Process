@@ -50,5 +50,5 @@ This repository contains a comprehensive analysis of a Mining Process Flotation 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Abuhamida/Machine-learning-.git
-   cd Quality Prediction in a Mining Process
+   git clone https://github.com/Abuhamida/Quality-Prediction-in-a-Mining-Process.git
+   cd Quality-Prediction-in-a-Mining-Process
