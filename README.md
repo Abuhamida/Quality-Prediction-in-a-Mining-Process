@@ -21,14 +21,14 @@ This repository contains a comprehensive analysis of a Mining Process Flotation 
    - **Framework**: Gradio
    - Deployed the trained model as a web application to allow interactive predictions and model evaluation.
 
-   ![Gradio Deployment](https://raw.githubusercontent.com/Abuhamida/Quality-Prediction-in-a-Mining-Process/images/gradio.png)
+   ![Gradio Deployment](https://raw.githubusercontent.com/Abuhamida/Quality-Prediction-in-a-Mining-Process/main/images/gradio.png)
    *Screenshot of the Gradio interface*
 
 4. **Power BI Visualizations**
    - Created interactive dashboards to visualize the mining process data.
    - Included various visualizations such as scatter plots, line charts, and slicers for dynamic data exploration.
 
-   ![Power BI Dashboard](https://raw.githubusercontent.com/Abuhamida/Quality-Prediction-in-a-Mining-Process/images/BI.png)
+   ![Power BI Dashboard](https://raw.githubusercontent.com/Abuhamida/Quality-Prediction-in-a-Mining-Process/main/images/BI.png)
    *Screenshot of the Power BI dashboard*
 
 ## Getting Started
